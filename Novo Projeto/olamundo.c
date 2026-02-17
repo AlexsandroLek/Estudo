@@ -12,7 +12,7 @@ int main (){
     scanf("%f", &altura);
 
     printf("Digite o seu nome: \n");
-    scanf("%s", &nome);
+    scanf("%s", nome);
 
     printf("Digite sua matricula \n");
     scanf("%d", &matricula);
